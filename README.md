@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saicharancodes
 - 👀 I’m interested in python progamming and software development
-- 🌱 I’m currently learning my B.tech in electronics and communication 
+- 🌱 Completed B.tech in Electronics and Communication Engineering
 - 💞️ Open to work 
 - 📫 How to reach me post2saicharan@gmail.com
 
