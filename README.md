@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @saicharancodes
-- 👀 I’m interested in python progamming and software development
-- 🌱 Completed B.Tech in Electronics and Communication Engineering
+- 👀 I’m interested in Technology
 - 💞️ Open to work 
 - 📫 How to reach me post2saicharan@gmail.com
 
