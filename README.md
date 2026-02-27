@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @saicharancodes
-- 👀 I’m interested in Technology
-- 💞️ Open to work 
 - 📫 How to reach me post2saicharan@gmail.com
 
 <!---
