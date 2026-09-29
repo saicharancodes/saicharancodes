@@ -108,7 +108,7 @@ I care about clean automation, reliable production systems, and helping other en
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.credly.com/badges/0da7271f-b69b-4cfb-bc1c-9978cae5820c/public_url">
-  <img src="https://images.credly.com/size/220x220/images/28d76c67-77a1-4d13-a3f7-cca038e6f38a/image.png" alt="Google Cloud Professional Cloud Architect" width="140" />
+  <img src="https://images.credly.com/size/680x680/images/71c579e0-51fd-4247-b493-d2fa8167157a/image.png" alt="Google Cloud Professional Cloud Architect" width="140" />
 </a>
 
 <br /><br />
