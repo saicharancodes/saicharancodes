@@ -112,8 +112,20 @@
 
 ## Certifications
 
-- AWS Certified Solutions Architect - Associate
-- Google Cloud Professional Cloud Architect
+<table>
+	<tr>
+		<td align="center" width="50%">
+			<img src="https://img.shields.io/badge/AWS-Certified_Solutions_Architect_-_Associate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certified Solutions Architect - Associate" />
+			<br />
+			<img src="https://img.shields.io/badge/AWS-Cloud_Provider-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+		</td>
+		<td align="center" width="50%">
+			<img src="https://img.shields.io/badge/Google_Cloud-Professional_Cloud_Architect-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud Professional Cloud Architect" />
+			<br />
+			<img src="https://img.shields.io/badge/GCP-Cloud_Provider-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP" />
+		</td>
+	</tr>
+</table>
 
 ## Contact
 
